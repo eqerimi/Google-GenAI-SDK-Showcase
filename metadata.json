@@ -1,0 +1,8 @@
+{
+  "name": "Gemini SDK Showcase",
+  "description": "A comprehensive demonstration of the Google GenAI SDK capabilities, featuring Chat, Vision, Structured JSON, and the real-time Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
